@@ -19,3 +19,10 @@ Python Pandas,Matplotlib ve Seaborn kütüphanesi ile 'Satış Analizi' yapmak. 
 14.	Ortalama olarak en fazla kargo ücreti ödeyen ilk 10 ülkeler hangileridir? - Which are the average shipping cost for top 10 different countries?
 15.	En çok kar getiren ilk 10 müşteri kimlerdir? - Who are the top-10 most profitable customers?
 17.	Yıl ve aylara göre toplam satış değerleri nedir? - Total sales values by year and month.
+
+
+
+Technique used:
+
+Seaborn, pandas, numpy, matplotlib
+Data cleaning, data analysis
