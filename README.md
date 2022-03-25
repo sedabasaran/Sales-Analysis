@@ -1,7 +1,7 @@
 # Python ile Satış Analizi - Using Python Pandas Library to Analyze Sales Data 
 
-Pandas,Matplotlib ve Seaborn kütüphanesi ile 'Satış Analizi' yapmak. Anaconda üzerinden Jupyter Notebook kullanılmıştır.
-Örnek satış analizinde aşağıdaki sorulara cevap aranmıştır.
+Pandas,Matplotlib ve Seaborn kütüphanesi ile  örnek bir veri üzerinden 'Satış Analizi' yapılmıştır. Anaconda üzerinden Jupyter Notebook kullanılıp,
+örnek satış analizinde aşağıdaki sorulara cevap aranmıştır.
 
 1.	En çok satan ürünler hangileridir? 
 2.	Satışı en iyi olan 10 ürün hangileridir? 
@@ -22,7 +22,7 @@ Pandas,Matplotlib ve Seaborn kütüphanesi ile 'Satış Analizi' yapmak. Anacond
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Objective: Data Manipulation and exploring with Pandas.
 # Technique used:
-
+I use Python Pandas & Python to analyze and answer business questions about SuperStore of sales data.
 Seaborn, pandas, matplotlib
 Data cleaning, data analysis
 
